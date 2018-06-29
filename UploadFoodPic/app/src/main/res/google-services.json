@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "196960943785",
+    "firebase_url": "https://uploadfoodpic.firebaseio.com",
+    "project_id": "uploadfoodpic",
+    "storage_bucket": "uploadfoodpic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196960943785:android:a93ef0ced0120cc9",
+        "android_client_info": {
+          "package_name": "com.example.sidharth.uploadfoodpic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196960943785-ah51mmh1djgc0vs7nvhkd0rtcm19o9af.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sidharth.uploadfoodpic",
+            "certificate_hash": "be66bab1d07150bba8a62f0155b135b964597272"
+          }
+        },
+        {
+          "client_id": "196960943785-td4ecqca01ds98igeb70319oc8hdbvn3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "196960943785-td4ecqca01ds98igeb70319oc8hdbvn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1NddZQVQk5K1Go6qEpqdbAeDNzwPZ834"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196960943785-td4ecqca01ds98igeb70319oc8hdbvn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
